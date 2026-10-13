@@ -16,7 +16,7 @@ Based in Stratford, East London. I work under the name **[Dean Da Dev](https://w
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[Quick Scan First](https://www.dean-da-dev.co.uk/quick-scan-first/)** · [Add to Chrome](https://chromewebstore.google.com/detail/goimgdjenphgchhcbgjafdbimjogafad) · [code](https://github.com/dean1234533/Launch-check) | Checks GitHub repositories for release risks and prepares fix pull requests for review | Chrome extension, React, TypeScript, Node, Anthropic |
+| **[Quick Scan First](https://www.dean-da-dev.co.uk/quick-scan-first/)** · [Add to Chrome](https://chromewebstore.google.com/detail/quick-scan-first/goimgdjenphgchhcbgjafdbimjogafad) · [code](https://github.com/dean1234533/Launch-check) | Checks GitHub repositories for release risks and prepares fix pull requests for review | Chrome extension, React, TypeScript, Node, Anthropic |
 | **[BackTheVibes](https://www.backthevibes.com/)** · [code](https://github.com/dean1234533/Music-Platform-App) | An independent music platform where fans support artists directly and DJs license tracks through signed agreements | React, TypeScript, Firebase, Stripe Connect, Cloudflare |
 | **[Bookrightly](https://bookrightly.co.uk/)** · [code](https://github.com/dean1234533/Booking-System) | Booking SaaS for barbers, hairdressers, PTs, and decorators, with a profile, booking, and deposits for every business | React, Firebase, Stripe, Cloudflare Workers, PWA |
 | **[AI Growth Audit](https://app.dean-da-dev.co.uk/)** · [code](https://github.com/dean1234533/AI-growth-audit-platform) | A free AI website audit (SEO, speed, trust) with a Pro monitoring dashboard | Astro, React, Cloudflare Workers AI, Gemini, Stripe |
